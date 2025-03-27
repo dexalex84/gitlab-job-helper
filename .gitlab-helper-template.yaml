@@ -1,0 +1,4 @@
+gitlab:
+  url: "https://gitlab.com"  # Your GitLab instance URL
+  project_id: "12345"     # Your GitLab project ID
+  token: "glpat-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"   # Your GitLab API token 

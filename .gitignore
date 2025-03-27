@@ -1,0 +1,9 @@
+.vscode
+.vscode/launch.json
+.gitlab-helper.yaml
+venv/
+.vscode/
+__pycache__
+launch.json
+.vscode/*
+.vscode
